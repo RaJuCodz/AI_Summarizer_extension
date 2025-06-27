@@ -2,7 +2,7 @@
 
 Effortlessly summarize any web article using Google Gemini AI, right from your browser! This extension provides quick, high-quality summaries in various formats, lets you use custom instructions, and keeps a history of your recent summaries for easy reference.
 
-![AI Summariser Screenshot](icon.png)
+![AI Summariser Screenshot](image.png)
 
 ## ✨ Features
 
@@ -47,6 +47,7 @@ ai-summariser-chrome-extension/
 ├── background.js
 ├── content.js
 ├── icon.png
+├── image.png
 ├── manifest.json
 ├── options.html
 ├── options.js
